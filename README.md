@@ -6,9 +6,9 @@ I'm a 5+ years software developer. Some of this time [Sopyo](https://www.sopyo.c
 
 Solving problems and challenges with code is my passion. I've published a lot of work so please keep an eye out for new and exciting stuff.
 
-Frameworks & Technologies: Angular, React, Laravel, NodeJS, .NET, Spring, DevArchitecture, Sql Server (and other databases).
+Frameworks & Libraries & Technologies: Angular, React, Laravel, NodeJS, jQuery, .NET, Spring, DevArchitecture, Sql Server (and other databases).
 
-Languages: C#, Java, PHP, TypeScript, JavaScript, jQuery and many more.
+Languages: C#, Java, PHP, TypeScript, JavaScript and many more.
  
 Together we rule our world!
 
