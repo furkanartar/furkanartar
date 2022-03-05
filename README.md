@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Linkedin](https://www.furkanartar.dev/
+[![My Website](https://www.furkanartar.dev/)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/furkanartar/)
 
 I'm a 5+ years software developer and consultant. Some of this time [Sopyo](https://www.sopyo.com/).
