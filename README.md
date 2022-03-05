@@ -1,16 +1,15 @@
 ### Hi there 👋
+[![My Website](https://www.furkanartar.dev/
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/furkanartar/)
 
-<!--
-**furkanartar/furkanartar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 5+ years software developer and consultant. Some of this time [Sopyo](https://www.sopyo.com/).
 
-Here are some ideas to get you started:
+Solving problems and challenges with code is my passion. Before now, I've published a lot of work so please keep an eye out for new and exciting stuff.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Frameworks & Technologies: Angular, React, Laravel, NodeJS, .NET, Spring, DevArchitecture, Sql Server (and other databases).
+
+Languages: C#, Java, PHP, TypeScript, JavaScript, jQuery and many more.
+ 
+Together we rule our world!
+
+📫 How to reach me: https://www.linkedin.com/in/furkanartar
